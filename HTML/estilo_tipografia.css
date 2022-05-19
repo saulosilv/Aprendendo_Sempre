@@ -1,0 +1,13 @@
+h1{
+   color: #808000;
+   letter-spacing: -2px;
+   text-transform: capitalize;
+   width: 650px;
+   text-shadow: 1px 1px black;
+   font-family: 'Macondo', cursive;
+}
+p{
+   width: 650px;
+   font-size: 20px;
+   font-family: verdana, arial,sans-serif;
+}
